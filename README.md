@@ -3,4 +3,18 @@
 It is an app similar to whats app(with phone authentication).It allow chatting with all users on app(unlike on whats app which allow chat only with contacts in user mobile).
 
 
-[WhatsApp Image 2020-07-09 at 5 30 19 PM](https://user-images.githubusercontent.com/60872915/87069466-dc664800-c234-11ea-9014-1b403f62881a.jpeg)
+![](final_screenshots/WhatsApp%20Image%202020-07-09%20at%205.30.22%20PM.jpeg)
+
+![](final_screenshots/WhatsApp%20Image%202020-07-09%20at%205.30.21%20PM%20(2).jpeg)
+
+![](final_screenshots/WhatsApp%20Image%202020-07-09%20at%205.30.21%20PM.jpeg)
+
+![](final_screenshots/WhatsApp%20Image%202020-07-09%20at%205.30.21%20PM%20(1).jpeg)
+
+![](final_screenshots/WhatsApp%20Image%202020-07-09%20at%205.30.20%20PM.jpeg)
+
+![](final_screenshots/WhatsApp%20Image%202020-07-09%20at%205.30.19%20PM.jpeg)
+
+![](final_screenshots/WhatsApp%20Image%202020-07-09%20at%205.30.23%20PM.jpeg)
+
+![](final_screenshots/WhatsApp%20Image%202020-07-09%20at%205.30.22%20PM%20(1).jpeg)
